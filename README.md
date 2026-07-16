@@ -115,8 +115,7 @@ Users can dynamically filter data based on:
 
 ## Dashboard Preview
 
-Add your dashboard screenshot inside the Screenshots folder and display it in the README file.
-
+https://github.com/poojagunjal-data/Ecommerces_Salesdata_Dashboard/blob/main/Ecommerces%20sales%20dashboard.png
 ---
 
 ## Key Learnings
